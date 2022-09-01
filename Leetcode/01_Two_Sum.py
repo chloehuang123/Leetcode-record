@@ -13,5 +13,6 @@ class Solution:
             
 
 ###############################################################################################
-# 最后不能用 如[Valid_Anagram](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/242_Valid_Anagram.py)
+# 最后不能用 如Valid_Anagram中 hashTb.get( , ), 因为第二个input必须是个value
 ###############################################################################################
+print('https://stackoverflow.com/questions/11041405/why-dict-getkey-instead-of-dictkey')
