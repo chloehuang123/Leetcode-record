@@ -7,4 +7,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 ### Arrays & Hashing
 |leetcode problem|Python|Difficulty|
 |---|---|---
-|[217. Contains Duplicate](https://leetcode.cn/problems/contains-duplicate/)|[]()|Easy
+|[217. 存在重复元素](https://leetcode.cn/problems/contains-duplicate/)|[Contains Duplicate](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/217_Contains_Duplicate.py)|Easy
