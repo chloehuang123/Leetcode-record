@@ -14,5 +14,6 @@ class Solution:
 
 ###############################################################################################
 # 最后不能用 如Valid_Anagram中 hashTb.get( , ), 因为第二个input必须是个value
+# https://stackoverflow.com/questions/11041405/why-dict-getkey-instead-of-dictkey
 ###############################################################################################
-print('https://stackoverflow.com/questions/11041405/why-dict-getkey-instead-of-dictkey')
+
