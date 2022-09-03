@@ -12,3 +12,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[1. 两数之和](https://leetcode.cn/problems/two-sum/)|[Two Sum](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/01_Two_Sum.py)|Easy
 |[49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/)|[Group Anagrams](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/49_Group_Anagrams)|Medium
 |[347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)|[Top K Frequent Elements](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/347_Top_K_Frequent_Elements.py)|Medium|[note](https://leetcode.cn/problems/top-k-frequent-elements/solution/yi-xing-python3dai-ni-zou-jin-counterlei-by-jimmy0/)
+|[238. 除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/)|[Product of Array Except Self]()|Medium
