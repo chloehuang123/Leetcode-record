@@ -11,3 +11,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[242. 有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)|[Valid Anagram](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/242_Valid_Anagram.py)|Easy
 |[1. 两数之和](https://leetcode.cn/problems/two-sum/)|[Two Sum](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/01_Two_Sum.py)|Easy
 |[49. 字母异位词分组](https://leetcode.cn/problems/group-anagrams/)|[Group Anagrams](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/49_Group_Anagrams)|Medium
+|[347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)|[Top K Frequent Elements]()|Medium
