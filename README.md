@@ -15,3 +15,7 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[238. 除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/)|[Product of Array Except Self](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/238_Product_of_Array_Except_Self.py)|Medium|[note](https://leetcode.cn/problems/product-of-array-except-self/solution/chu-zi-shen-yi-wai-shu-zu-de-cheng-ji-by-leetcode-/)
 |[271. 字符串的编码与解码](https://leetcode.cn/problems/encode-and-decode-strings/)|[Encode and Decode Strings](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/271_Encode_and_Decode_Strings.py)|Medium|[note](https://www.youtube.com/watch?v=B1k_sxOSgv8)
 |[128. 最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/)|[Longest Consecutive Sequence](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/128_Longest_Consecutive_Sequence.py)|Medium|
+
+### Two Pointers
+|leetcode problem|Python|Difficulty|Notes|
+|---|---|---|---
