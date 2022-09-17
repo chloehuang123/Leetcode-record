@@ -27,4 +27,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |leetcode problem|Python|Difficulty|Notes|
 |---|---|---|---
 |[121. 买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)|[Best Time to Buy and Sell Stock](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/121_Best_Time_to_Buy_and_Sell_Stock.py)|Easy
-|[3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)|[Longest Substring Without Repeating Characters]()|Medium
+|[3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)|[Longest Substring Without Repeating Characters](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/3_Longest_Substring_Without_Repeating_Characters.py)|Medium
