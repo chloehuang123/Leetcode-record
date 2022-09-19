@@ -33,3 +33,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 ### Binary Search
 |leetcode problem|Python|Difficulty|Notes|
 |---|---|---|---
+|[33. 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/)|[Search in Rotated Sorted Array]()|Medium
