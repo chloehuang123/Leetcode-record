@@ -33,7 +33,7 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 ### Stack
 |leetcode problem|Python|Difficulty|Notes|
 |---|---|---|---
-|[20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/)|[Valid Parentheses]()|Easy
+|[20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/)|[Valid Parentheses](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/20_Valid_Parentheses.py)|Easy
 
 
 ### Binary Search
