@@ -30,6 +30,12 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)|[Longest Substring Without Repeating Characters](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/3_Longest_Substring_Without_Repeating_Characters.py)|Medium
 |[424. 替换后的最长重复字符](https://leetcode.cn/problems/longest-repeating-character-replacement/)|[Longest Repeating Character Replacement](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/424_Longest_Repeating_Character_Replacement.py)|Medium
 
+### Stack
+|leetcode problem|Python|Difficulty|Notes|
+|---|---|---|---
+|[20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/)|[Valid Parentheses]()|Easy
+
+
 ### Binary Search
 |leetcode problem|Python|Difficulty|Notes|
 |---|---|---|---
