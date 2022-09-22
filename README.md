@@ -40,4 +40,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |leetcode problem|Python|Difficulty|Notes|
 |---|---|---|---
 |[33. 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/)|[Search in Rotated Sorted Array](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/33_Search_in_Rotated_Sorted_Array.py)|Medium
-|[153. 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/)|[Find Minimum in Rotated Sorted Array](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/153_Find_Minimum_in_Rotated_Sorted_Array.py)|medium
+|[153. 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/)|[Find Minimum in Rotated Sorted Array](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/153_Find_Minimum_in_Rotated_Sorted_Array.py)|Medium
