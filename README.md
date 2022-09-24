@@ -45,4 +45,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 ### Trees
 |leetcode problem|Python|Difficulty|Notes|
 |---|---|---|---
-|[226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)|[Invert Binary Tree]()|Easy
+|[226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)|[Invert Binary Tree](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/226_Invert_Binary_Tree.py)|Easy
