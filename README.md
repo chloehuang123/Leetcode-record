@@ -46,4 +46,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |leetcode problem|Python|Difficulty|Notes|
 |---|---|---|---
 |[226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)|[Invert Binary Tree](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/226_Invert_Binary_Tree.py)|Easy
-|[104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)|[Maximum Depth of Binary Tree]()|Easy
+|[104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)|[Maximum Depth of Binary Tree](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/104_Maximum_Depth_of_Binary_Tree.py)|Easy
