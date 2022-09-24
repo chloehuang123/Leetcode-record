@@ -45,3 +45,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 ### Trees
 |leetcode problem|Python|Difficulty|Notes|
 |---|---|---|---
+|[]()|[]()|Easy
