@@ -6,6 +6,7 @@
 #         self.right = right
 class Solution:
     def isSameTree(self, p: TreeNode, q: TreeNode) -> bool:
+        # this is the stopping point at node null
         if not p and not q:
             return True
         if p and q and p.val == q.val:
