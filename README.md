@@ -49,5 +49,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)|[Maximum Depth of Binary Tree](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/104_Maximum_Depth_of_Binary_Tree.py)|Easy
 |[100. 相同的树](https://leetcode.cn/problems/same-tree/)|[Same Tree](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/100_Same_Tree.py)|Easy
 |[]()|[]()|Easy
-|[235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Lowest Common Ancestor of a Binary Search Tree
-]()|Easy
+|[235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Lowest Common Ancestor of a Binary Search Tree]()|Easy
