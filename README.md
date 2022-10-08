@@ -52,3 +52,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Lowest Common Ancestor of a Binary Search Tree](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py)|Medium
 |[102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)|[Binary Tree Level Order Traversal](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/102_Binary_Tree_Level_Order_Traversal.py)|Medium
 |[98. 验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)|[Validate Binary Search Tree]()|Medium
+|[230. 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/)|[Kth Smallest Element in a BST]()|Medium
