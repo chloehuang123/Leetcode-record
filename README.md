@@ -54,4 +54,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[98. 验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)|[Validate Binary Search Tree]()|Medium
 |[230. 二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/)|[Kth Smallest Element in a BST](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/230_Kth_Smallest_Element_in_a_BST.py)|Medium
 |[105. 从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Construct Binary Tree from Preorder and Inorder Traversal]()|Medium
-|[95. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)|[Binary Tree Inorder Traversal]()|Easy
+|[95. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)|[Binary Tree Inorder Traversal](https://github.com/chloehuang123/Leetcode-record/blob/42687704be0789c72e0e5b267e62280f40793260/Leetcode/94_Binary_Tree_Inorder_Traversal.py)|Easy
