@@ -61,5 +61,5 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/106_Solution.py)|Medium
 |[889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/889_Solution.py)|Medium
 |[173. Binary Search Tree Iterator](https://leetcode.cn/problems/binary-search-tree-iterator/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/173_Solution.py)|Medium
-|[230. Kth Smallest Element in a BST](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/description/)|[Solution]()|Medium
+|[230. Kth Smallest Element in a BST](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/230_Solution.py)|Medium
 
