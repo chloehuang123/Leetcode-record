@@ -58,3 +58,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[144. Binary Tree Preorder Traversal](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/144_Solution.py)|Easy
 |[145. Binary Tree Postorder Traversal](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/145_Solution.py)|Easy
 |[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/105_Solution.py)|Medium
+|[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Solution]()|Medium
