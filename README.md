@@ -56,4 +56,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[105. 从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Construct Binary Tree from Preorder and Inorder Traversal]()|Medium
 |[95. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)|[Binary Tree Inorder Traversal](https://github.com/chloehuang123/Leetcode-record/blob/42687704be0789c72e0e5b267e62280f40793260/Leetcode/94_Binary_Tree_Inorder_Traversal.py)|Easy
 |[144. Binary Tree Preorder Traversal](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/144_Solution.py)|Easy
-|[145. Binary Tree Postorder Traversal](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)|[Solution]()|Easy
+|[145. Binary Tree Postorder Traversal](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/145_Solution.py)|Easy
