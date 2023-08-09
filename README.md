@@ -63,4 +63,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[173. Binary Search Tree Iterator](https://leetcode.cn/problems/binary-search-tree-iterator/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/173_Solution.py)|Medium
 |[230. Kth Smallest Element in a BST](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/230_Solution.py)|Medium
 |[101. Symmetric Tree](https://leetcode.cn/problems/symmetric-tree/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/101_Solution.py)|Easy
-|[110. Balanced Binary Tree](https://leetcode.cn/problems/balanced-binary-tree/description/)|[Solution]()|Easy
+|[110. Balanced Binary Tree](https://leetcode.cn/problems/balanced-binary-tree/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/110_Solution.py)|Easy
