@@ -65,4 +65,4 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[101. Symmetric Tree](https://leetcode.cn/problems/symmetric-tree/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/101_Solution.py)|Easy
 |[110. Balanced Binary Tree](https://leetcode.cn/problems/balanced-binary-tree/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/110_Solution.py)|Easy
 |[104. Maximum Depth of Binary Tree](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/104_Maximum_Depth_of_Binary_Tree.py)|Easy
-|[111. Minimum Depth of Binary Tree](https://leetcode.cn/problems/minimum-depth-of-binary-tree/description/)|[Solution]()|Easy
+|[111. Minimum Depth of Binary Tree](https://leetcode.cn/problems/minimum-depth-of-binary-tree/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/111_Solution.py)|Easy
