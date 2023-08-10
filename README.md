@@ -44,6 +44,7 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[704. Binary Search](https://leetcode.cn/problems/binary-search/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/704_Solution.py)|Easy
 |[34. Find First and Last Position of Element in Sorted Array](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/34_Solution.py)|Medium
 |[153. Find Minimum in Rotated Sorted Array](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/153_Solution.py)|Medium
+|[154. Find Minimum in Rotated Sorted Array II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/)|[Solution]()|Hard
 
 ### Trees
 |leetcode problem|Python|Difficulty|Notes|
