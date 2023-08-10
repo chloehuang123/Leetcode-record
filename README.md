@@ -46,6 +46,7 @@ This repo is aim to track the Leetcode problems I've tackled. I'm using Python.
 |[153. Find Minimum in Rotated Sorted Array](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/153_Solution.py)|Medium
 |[154. Find Minimum in Rotated Sorted Array II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/)|[Solution]()|Hard
 |[278. First Bad Version](https://leetcode.cn/problems/first-bad-version/description/)|[Solution](https://github.com/chloehuang123/Leetcode-record/blob/main/Leetcode/278_Solution.py)|Easy
+|[658. Find K Closest Elements](https://leetcode.cn/problems/find-k-closest-elements/description/)|[Solution]()|Medium
 
 ### Trees
 |leetcode problem|Python|Difficulty|Notes|
