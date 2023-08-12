@@ -10,10 +10,9 @@ class Solution:
         self.dfs(root)
         
         for i in range(len(self.lst)-1):
-            if self.lst[i+1] >= self.lst[i]:
-                return True
-            else:
+            if self.lst[i+1] <= self.lst[i]:
                 return False
+        return True
         
     
     
