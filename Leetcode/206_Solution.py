@@ -3,6 +3,13 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+"""
+head -> head.next -> null
+curr    temp         pre
+
+pre  <- curr         temp
+"""
+
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         pre = None
